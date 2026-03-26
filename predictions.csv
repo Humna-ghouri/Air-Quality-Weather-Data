@@ -1,0 +1,36 @@
+City,Date,Predicted_AQI_Category,Predicted_AQI_Value
+Islamabad,2025-01-01,Very Unhealthy,5
+Islamabad,2025-01-02,Very Unhealthy,5
+Islamabad,2025-01-03,Very Unhealthy,5
+Islamabad,2025-01-04,Very Unhealthy,5
+Islamabad,2025-01-05,Very Unhealthy,5
+Islamabad,2025-01-06,Very Unhealthy,5
+Islamabad,2025-01-07,Very Unhealthy,5
+Karachi,2025-01-01,Very Unhealthy,5
+Karachi,2025-01-02,Very Unhealthy,5
+Karachi,2025-01-03,Very Unhealthy,5
+Karachi,2025-01-04,Very Unhealthy,5
+Karachi,2025-01-05,Very Unhealthy,5
+Karachi,2025-01-06,Very Unhealthy,5
+Karachi,2025-01-07,Very Unhealthy,5
+Lahore,2025-01-01,Very Unhealthy,5
+Lahore,2025-01-02,Very Unhealthy,5
+Lahore,2025-01-03,Very Unhealthy,5
+Lahore,2025-01-04,Very Unhealthy,5
+Lahore,2025-01-05,Very Unhealthy,5
+Lahore,2025-01-06,Very Unhealthy,5
+Lahore,2025-01-07,Very Unhealthy,5
+Peshawar,2025-01-01,Very Unhealthy,5
+Peshawar,2025-01-02,Very Unhealthy,5
+Peshawar,2025-01-03,Very Unhealthy,5
+Peshawar,2025-01-04,Very Unhealthy,5
+Peshawar,2025-01-05,Very Unhealthy,5
+Peshawar,2025-01-06,Very Unhealthy,5
+Peshawar,2025-01-07,Very Unhealthy,5
+Quetta,2025-01-01,Unhealthy,4
+Quetta,2025-01-02,Unhealthy,4
+Quetta,2025-01-03,Unhealthy,4
+Quetta,2025-01-04,Unhealthy,4
+Quetta,2025-01-05,Unhealthy,4
+Quetta,2025-01-06,Unhealthy,4
+Quetta,2025-01-07,Unhealthy,4
